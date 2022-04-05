@@ -1,2 +1,2 @@
 # Train
-An animation of a traditional moving train coded in HTML, CSS and JS. Enjoy!
+An animation of a traditional moving train coded in HTML and CSS. Enjoy the journey!
